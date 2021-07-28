@@ -15,7 +15,12 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 ## Description and credit
 
 - ``QFN-60_7x7mm_P0.4mm`` was copied from [Ultra Librarian's page](https://app.ultralibrarian.com/details/CA8B0F7C-78E3-11EA-8C00-0AD2C9526B44/ISSI/IS31FL3741-QFLS4-TR?ref=digikey) (last access march 25, 2021).
+- ``DHN-02F`` was obtained from [3DCC's page](http://https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1024220) (last access july 27, 2021).
 
 ## Copyright notice
 
 This project is released under the Acheron Open-Hardware License V1.3. For the license, please refer to the LICENCE.md file.
+
+## Credits
+
+- DFN-8 step file: https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=602171. Last accessed july 09, 2021.
