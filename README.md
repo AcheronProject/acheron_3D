@@ -16,6 +16,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 
 - ``QFN-60_7x7mm_P0.4mm`` was copied from [Ultra Librarian's page](https://app.ultralibrarian.com/details/CA8B0F7C-78E3-11EA-8C00-0AD2C9526B44/ISSI/IS31FL3741-QFLS4-TR?ref=digikey) (last access march 25, 2021).
 - ``DHN-02F`` was obtained from [3DCC's page](http://https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1024220) (last access july 27, 2021).
+- ``811-22-`` are spring-loaded connector pins and their STEP models were optained directly from [Millmax's website](https://www.mill-max.com/) (last access january 21, 2022).
 
 ## Copyright notice
 
