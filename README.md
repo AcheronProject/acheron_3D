@@ -18,6 +18,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``DHN-02F`` was obtained from [3DCC's page](http://https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1024220) (last access july 27, 2021).
 - ``811-22-`` are spring-loaded connector pins and their STEP models were optained directly from [Millmax's website](https://www.mill-max.com/) (last access january 21, 2022).
 - ``IR12_21C_TR8``, ``PT12_21B_TR8``, ``LKIR30102C_A02`` and ``LKPT30102B_A01`` are STEP/WRL models of IR transmitters and receivers, modelled by Rico of [My Maker Corner](https://github.com/mymakercorner).
+- ``BIVAR_LPV2-0450FP`` was obtained directly from [Bivar's website](https://www.bivar.com/product/lpv2-0450fp/) (last access march 28, 2022)
 
 ## Copyright notice
 
