@@ -21,7 +21,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``BIVAR_LPV2-0450FP`` was obtained directly from [Bivar's website](https://www.bivar.com/product/lpv2-0450fp/) (last access march 28, 2022)
 - ``SC70-6`` from [this GrabCAD page](https://grabcad.com/library/sc70-packages-1) (last access january 5, 2022)
 - ``mill-max-811-22-00X-30-000101`` were obtained directly from [MillMax's website](https://www.mill-max.com/products/spring-loaded/slc-pin-header-strip/811-xx-xxx-30-000101/811-22-003-30-000101) (last access january 7, 2022)
-
+- ``BMXXB-SRSS-TB.STEP``and ``SMXXB-SHLS-TF.STEP`` were ontained from [JST America's website](https://www.jst.com/) (last access january 7, 2022)
 
 ## Copyright notice
 
