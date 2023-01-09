@@ -22,8 +22,10 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``SC70-6`` from [this GrabCAD page](https://grabcad.com/library/sc70-packages-1) (last access january 5, 2022)
 - ``mill-max-811-22-00X-30-000101`` were obtained directly from [MillMax's website](https://www.mill-max.com/products/spring-loaded/slc-pin-header-strip/811-xx-xxx-30-000101/811-22-003-30-000101) (last access january 7, 2022)
 - ``BMXXB-SRSS-TB.STEP``and ``SMXXB-SHLS-TF.STEP`` were ontained from [JST America's website](https://www.jst.com/) (last access january 7, 2022)
-- ``2005280160.stp`` was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/ffc_fpc_connectors/2005280160) (last access january 7, 2022)
-- ``781710005.stp`` was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/pcb_headers/0781710005)  (last access january 7, 2022)
+- ``2005280160.stp`` is an EZMate Pico connector was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/ffc_fpc_connectors/2005280160) (last access january 7, 2022)
+- ``781710005.stp`` is a clamshell-locl FPC cable and was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/pcb_headers/0781710005)  (last access january 7, 2022)
+- ``XFCN_F1004-H-16-20G-R`` is a clamshell-lock FPC cable and its model was designed for Acheron.
+
 
 ## Copyright notice
 
