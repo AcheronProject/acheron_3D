@@ -9,7 +9,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 ## How to use
 
 1. Clone the git repository into a ``libraries`` folder inside your KiCad project main folder, also known was ``${KIPRJMOD}``.
-2. In PCBNEW, go into ``Preferences > Configure paths... `` then under the ``3D Search Paths`` section, add an alias called ``ACHERON_3D`` and set the path to the library you just downloaded.
+2. In PCBNEW, go into ``Preferences > Configure paths... `` then under the ``Environment Variables`` section, add an alias called ``ACHERON_3D`` and set the path to the library you just downloaded.
 3. After that the library footprints should be shown with their 3D step models in KiCAD's renders.
 
 ## Description and credit
