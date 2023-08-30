@@ -25,7 +25,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``2005280160.stp`` is an EZMate Pico connector was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/ffc_fpc_connectors/2005280160) (last access january 7, 2022)
 - ``781710005.stp`` is a clamshell-locl FPC cable and was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/pcb_headers/0781710005)  (last access january 7, 2022)
 - ``XFCN_F1004-H-16-20G-R`` is a clamshell-lock FPC cable and its model was designed for Acheron.
-
+- ``WS2812B-4020`` was obtained from [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1401515)
 
 ## Copyright notice
 
