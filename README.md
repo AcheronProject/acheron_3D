@@ -14,6 +14,8 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 
 ## Description and credit
 
+
+- ``DFN-8`` was obtained from  [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=602171) (last accessed july 09, 2021).
 - ``QFN-60_7x7mm_P0.4mm`` was copied from [Ultra Librarian's page](https://app.ultralibrarian.com/details/CA8B0F7C-78E3-11EA-8C00-0AD2C9526B44/ISSI/IS31FL3741-QFLS4-TR?ref=digikey) (last access march 25, 2021).
 - ``DHN-02F`` was obtained from [3DCC's page](http://https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1024220) (last access july 27, 2021).
 - ``811-22-`` are spring-loaded connector pins and their STEP models were optained directly from [Millmax's website](https://www.mill-max.com/) (last access january 21, 2022).
@@ -25,12 +27,10 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``2005280160.stp`` is an EZMate Pico connector was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/ffc_fpc_connectors/2005280160) (last access january 7, 2022)
 - ``781710005.stp`` is a clamshell-locl FPC cable and was obtained from [MOLEX's website](https://www.molex.com/molex/products/part-detail/pcb_headers/0781710005)  (last access january 7, 2022)
 - ``XFCN_F1004-H-16-20G-R`` is a clamshell-lock FPC cable and its model was designed for Acheron.
-- ``WS2812B-4020`` was obtained from [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1401515)
+- ``WS2812B-4020`` is a 4x2mm version of the WS2812 RGB LED and was obtained from [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1401515)
+- ``E73-2G4M08S1C`` is a nRF52840 BL module and was obtained from [GrabDAC's website](https://grabcad.com/library/ebyte-e73-2g4m08s1c-1) (last access march 15, 2024)
+- ``JST-S2B-PH-SM4-TB`` is a wire-to-board SMD connector and was obtained from [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=817113) (last access march 15, 2024)
 
 ## Copyright notice
 
-This project is released under the Acheron Open-Hardware License V1.3. For the license, please refer to the LICENCE.md file.
-
-## Credits
-
-- DFN-8 step file: https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=602171. Last accessed july 09, 2021.
+This project is released under the Acheron Open-Hardware License V1.4.
