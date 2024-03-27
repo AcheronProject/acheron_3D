@@ -30,6 +30,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``WS2812B-4020`` is a 4x2mm version of the WS2812 RGB LED and was obtained from [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1401515)
 - ``E73-2G4M08S1C`` is a nRF52840 BL module and was obtained from [GrabDAC's website](https://grabcad.com/library/ebyte-e73-2g4m08s1c-1) (last access march 15, 2024)
 - ``JST-S2B-PH-SM4-TB`` is a wire-to-board SMD connector and was obtained from [3D ContentCentral's website](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=817113) (last access march 15, 2024)
+- ``X05A20H14G.stp`` is a 14-contact 0.5mm pitch clamshell FPC connector and the model was obtained from [Traceparts](https://www.traceparts.com/en/product/xkb-connectivity-fpc-connector-05mm-flip-type-h-20mm-rear-lock-14p-gold-plating?CatalogPath=TRACEPARTS%3ATP10016001005003&Product=90-10122020-019128&PartNumber=X05A20H14G) (last accessed march 27, 2024)
 
 ## Copyright notice
 
