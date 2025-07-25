@@ -34,6 +34,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``Crystal_SMD_3P_3213.step`` is a 3-pin crystal oscillator and the model was obtained from [3D ContentCentral](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=943178&partnumber=3P%20SMD)
 - ``78170002.stp`` is a 2-pin MOLEX EZ-Mate connector used for (among other things) batteries and the model was obtained from [MOLEX' website](https://www.molex.com/en-us/products/part-detail/781710002) (last accessed march 19, 2025)
 - ``Raytac_MDBT50Q`` is a nRF52840 module featherboard. The model ws obtained from [Raytac's website](https://www.raytac.com/document/index.php?index_m_id=12) (last accessed july 7, 2025)
+- ``ALPS_SSSS811101`` is a SPDT switch. It was obtained from [brunoeagles repo](https://github.com/brunoeagle/kicad-open-3d) which does not have a license (last accessed july 25, 2025)
 ## Copyright notice
 
 This project is released under the Acheron Open-Hardware License V1.4.
