@@ -38,7 +38,7 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``K2-1107ST-A4DW-06.STEP'' is a SPST switch. It was obtained from [3D Content Central](https://www.3dcontentcentral.com/Download-Model.aspx?catalogid=171&id=1898108) (last accessed october 30, 2025)
 - ``DFN3L_1.6x1.6.step`` is a 3-dual line small package. The 3D file was modelled using FreeCAD (sources in the folder).
 - ``FH34SRJ-10S-0.5SH_99_.stp`` is a 10-pin FPC connector from Hirose. it was obtained from [Mouser](https://www.mouser.com/ProductDetail/Hirose-Connector/FH34SRJ-10S-0.5SH99) in june 4, 2026.
-
+- ``L_ShouHan_CYA0630.STEP `` is a family of fixed inductors. The 3D file was obtained froim [3DContentCentral](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=2035510), last accessed august 2, 2026.
 ## Copyright notice
 
 This project is released under the Acheron Open-Hardware License V1.4.
