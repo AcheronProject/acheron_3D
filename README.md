@@ -39,6 +39,9 @@ Acheron 3D is the AcheronProject's KiCad footprint 3D models library for. Most o
 - ``DFN3L_1.6x1.6.step`` is a 3-dual line small package. The 3D file was modelled using FreeCAD (sources in the folder).
 - ``FH34SRJ-10S-0.5SH_99_.stp`` is a 10-pin FPC connector from Hirose. it was obtained from [Mouser](https://www.mouser.com/ProductDetail/Hirose-Connector/FH34SRJ-10S-0.5SH99) in june 4, 2026.
 - ``L_ShouHan_CYA0630.STEP `` is a family of fixed inductors. The 3D file was obtained froim [3DContentCentral](https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=2035510), last accessed august 2, 2026.
+- ``78170002.stp`` is a 2-pin MOLEX EZ-Mate connector used for (among other things) batteries and the model was obtained from [MOLEX' website](https://www.molex.com/en-us/products/part-detail/781710002) (last accessed march 19, 2025)
+- ``78170004.stp`` is a 4-pin MOLEX EZ-Mate connector used for (among other things) batteries and the model was obtained from [MOLEX' website](https://www.molex.com/en-us/products/part-detail/781710004) (last accessed july 26, 2025)
+- ``Raytac_MDBT50Q`` is a nRF52840 module featherboard. The model ws obtained from [Raytac's website](https://www.raytac.com/document/index.php?index_m_id=12) (last accessed july 7, 2025)
 ## Copyright notice
 
 This project is released under the Acheron Open-Hardware License V1.4.
